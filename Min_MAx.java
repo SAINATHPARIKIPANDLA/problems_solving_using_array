@@ -30,3 +30,16 @@ public class Min_MAx
 	}
 	
 }
+OUTPUT:
+
+1 11 330 445 1000 3000 
+
+1 3000 //first smallest element in the array is "1" and first largest element in the array is "3000"
+
+11 1000//second smallest element in the array is "11" and second largest element in the array is "1000"
+
+330 445//third smallest element in the array is "330" and third largest element in the array is "445"
+
+
+
+
